@@ -9,4 +9,4 @@
 3. БЭМ
 4. javascript(oop)
    **Сылка на GitHub Pages**
-   [Тут ссылка](https://imynel.github.io/mesto-project/)
+   [Тут ссылка](https://mishe4ka14.github.io/mesto-OOP/)

@@ -1,6 +1,6 @@
 {
   "name": "mesto-project",
-  "homepage": "https://imynel.github.io/mesto-project",
+  "homepage": "./",
   "version": "1.0.0",
   "description": "1. HTML\r 2. CSS\r 3. БЭМ\r 4. javascript\r **Сылка на GitHub Pages**\r [Тут ссылка](https://imynel.github.io/mesto-project/)",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imynel/mesto-project.git"
+    "url": "git+https://github.com/Mishe4ka14/mesto-OOP"
   },
   "author": "imynel",
   "license": "ISC",
